@@ -1,7 +1,7 @@
 #ifndef CTHREADTEST_H
 #define CTHREADTEST_H
 
-#include "CCountItem.h"
+#include "ccountitem.h"
 
 class CThreadTest
 {

@@ -1,5 +1,5 @@
 #include "cthreadtest.h"
-#include "CThreadWorker.h"
+#include "cthreadworker.h"
 #include <assert.h>
 #include <mutex>
 #include <thread>

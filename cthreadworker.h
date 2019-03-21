@@ -1,7 +1,7 @@
 #ifndef CTHREADWORKER_H
 #define CTHREADWORKER_H
 
-#include "CCountItem.h"
+#include "ccountitem.h"
 #include <mutex>
 
 class CThreadWorker
